@@ -1,1 +1,1 @@
-from 48utils.BinRW import *
+import utils48.BinRW as BinRW
